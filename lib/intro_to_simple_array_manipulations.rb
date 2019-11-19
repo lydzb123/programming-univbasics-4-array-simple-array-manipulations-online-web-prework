@@ -7,7 +7,7 @@ def using_unshift(array, string)
 end
 
 array = [1,2,3,4]
-string = "okay"
+string = "first"
 
 def using_pop
 end
