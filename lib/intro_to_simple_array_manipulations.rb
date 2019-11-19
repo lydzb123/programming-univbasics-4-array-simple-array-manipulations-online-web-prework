@@ -6,5 +6,8 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
+array = [1,2,3,4]
+string = "okay"
+
 def using_pop
 end
