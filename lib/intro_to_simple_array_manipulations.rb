@@ -28,4 +28,4 @@ end
 
 array1 = "hello"
 array2 = "dude"
-using_concat(array1, array2)
+p using_concat(array1, array2)
