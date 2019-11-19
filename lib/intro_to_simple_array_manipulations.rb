@@ -28,3 +28,4 @@ end
 
 array1 = "hello"
 array2 = "dude"
+using_concats(array1, array2)
