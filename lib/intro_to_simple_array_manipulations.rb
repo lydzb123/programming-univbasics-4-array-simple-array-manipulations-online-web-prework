@@ -8,7 +8,7 @@ end
 
 array = [1,2,3,4]
 string = "first"
-array.unshift(array, string)
+p array.unshift(array, string)
 
 def using_pop
 end
